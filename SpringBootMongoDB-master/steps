@@ -1,0 +1,21 @@
+Reading a Record:
+/booking/read?id=[bookingId]: Read the booking with the passed bookingId.
+For Example:
+http://localhost:8080/booking/read?bookingId=57abe8932ca52424e8e88024
+
+
+Updating a Record:
+/booking/update?bookingId=[bookingId]&psngrName=Sweety: Update the booking for a given booking id.
+For Example:
+http://localhost:8080/booking/update?bookingId=57abe8a72ca52424e8e88025&psngrName=Anamika
+
+Read All Records
+http://localhost:8080/booking/read-all
+
+Deleting a Record:
+/booking/delete? bookingId=[bookingId]: Delete a booking for given booking id.
+
+For Example:
+http://localhost:8080/booking/delete?bookingId=57ac0d681ff9b3117caf7c85
+
+https://www.dineshonjava.com/spring-boot-and-mongodb-in-rest-application/

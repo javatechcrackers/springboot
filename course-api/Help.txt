@@ -1,0 +1,24 @@
+GET -> http://localhost:8080/topics
+
+POST ->  http://localhost:8080/topics
+
+{
+  "id": "DBMS",
+  "name": "DBMS framework",
+  "description": "DBMS description"
+}
+
+
+PUT -> http://localhost:8080/topics/Spring
+
+{
+  "id": "DBMS",
+  "name": "DBMS framework",
+  "description": "DBMS description"
+}
+
+
+DELETE -> http://localhost:8080/topics/Spring
+
+
+http://start.spring.io/

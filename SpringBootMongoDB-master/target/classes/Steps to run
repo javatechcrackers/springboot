@@ -1,0 +1,21 @@
+Creating New Record:
+
+http://localhost:8080/booking/create?psngrName=Vinesh&destination=Delhi&departure=Farrukhabad
+
+Reading a Record:
+http://localhost:8080/booking/read?bookingId=57abe8932ca52424e8e88024
+
+
+Updating a Record:
+
+http://localhost:8080/booking/update?bookingId=57abe8a72ca52424e8e88025&psngrName=Anamika
+
+
+Read All Records
+
+http://localhost:8080/booking/read-all
+
+
+Deleting a Record:
+
+http://localhost:8080/booking/delete?bookingId=57ac0d681ff9b3117caf7c85

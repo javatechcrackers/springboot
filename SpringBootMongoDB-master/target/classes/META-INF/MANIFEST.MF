@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: SpringBootMongoDB
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: prashantkatiyar
+Built-By: K672852
 Implementation-Vendor-Id: com.dineshonjava.sbmdb
-Build-Jdk: 1.8.0_31
+Build-Jdk: 1.8.0_66
 Implementation-URL: http://projects.spring.io/spring-boot/SpringBootMo
  ngoDB/
 Created-By: Maven Integration for Eclipse

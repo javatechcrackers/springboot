@@ -1,0 +1,7 @@
+---
+applications:
+- name: prashant-cloud
+  path: target/spring-boot-0.0.1-SNAPSHOT.jar
+  domain: prashant.cloud.io
+  memory: 1024m
+  instances: 1 
